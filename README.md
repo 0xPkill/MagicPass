@@ -3,7 +3,7 @@ MagicPass is a password creator which will create strong passwords and makes sur
 This wis a little fun project which I made in a day. 
 Hope you guys find this usefull.
 
-This program was coded in python and it has already been compile.
+This program was coded in python and it has already been compiled.
 
 How it works?
 
