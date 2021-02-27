@@ -7,7 +7,7 @@ This program was coded in python and it has already been compile.
 
 How it works?
 
-1. All you have to do is open the dist folder and open .exe 
+1. All you have to do is open the dist folder and open MagicPass.exe 
 
 2. It will then request how long you want your password.
 
