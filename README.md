@@ -9,8 +9,8 @@ How it works?
 
 1. All you have to do is open the dist folder and open MagicPass.exe 
 
-2. It will then request how long you want your password.
+2. It will then ask how long you want your password to be.
 
-3. after it will ask you how many passwords you want to genarte. 
+3. After it will ask you how many passwords you want to generate. 
 
 4. You have generated the passwords and the program will auto restart.
